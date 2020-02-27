@@ -30,7 +30,7 @@ let root={
                 {
                     isFile:true,
                     name:"f2.txt",
-                    newName:
+                    newName:"xyz2"
                 }
 
             ]

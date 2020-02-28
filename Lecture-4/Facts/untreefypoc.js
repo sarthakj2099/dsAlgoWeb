@@ -10,14 +10,14 @@ let root={
                     isFile:false,
                     name:"d40",
                     children:[]
-                }
+                },
                 {
                     isFile:true,
                     name:"f1.txt",
                     newName:"xyz"
                 }
             ]
-        }
+        },
         {
             isFile:false,
             name:"d30",
@@ -26,7 +26,7 @@ let root={
                     isFile:false,
                     name:"d50",
                     children=[]
-                }
+                },
                 {
                     isFile:true,
                     name:"f2.txt",
